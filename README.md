@@ -6,3 +6,4 @@ c=i+j;
 Console.WriteLine("the name is "+name);
 Console.WriteLine("value of both is "+c);
 Console.ReadLine();
+end
